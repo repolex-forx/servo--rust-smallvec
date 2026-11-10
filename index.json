@@ -1,0 +1,11 @@
+{
+  "org": "servo",
+  "repo": "rust-smallvec",
+  "versions": [
+    {
+      "commit": "2328868060b1e43394c994475f86b53bb55cc954",
+      "tag": "",
+      "parsed_at": "2026-11-10T07:46:46.145210+00:00"
+    }
+  ]
+}
